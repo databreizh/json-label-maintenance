@@ -1,0 +1,841 @@
+corpus,repeat,scheme,operation,target,returned,rewrites,total_ns,edit_and_label_ns,max_key_bytes
+Flask,0,dde,insert,head,0,0,891415,215255,15
+Flask,0,dde,delete,head,0,0,205627,26512,15
+Flask,0,dde,insert,head,0,0,469366,96497,15
+Flask,0,dde,delete,head,0,0,1706815,198662,15
+Flask,0,dde,insert,middle,0,0,599445,314924,18
+Flask,0,dde,delete,middle,0,0,214618,22276,18
+Flask,0,dde,insert,middle,0,0,445364,93694,18
+Flask,0,dde,delete,middle,0,0,559161,23497,18
+Flask,0,dde,insert,tail,0,0,354688,98631,18
+Flask,0,dde,delete,tail,0,0,263823,20913,18
+Flask,0,dde,insert,tail,0,0,512676,147768,18
+Flask,0,dde,delete,tail,0,0,630207,23926,18
+Flask,0,dde,exact,record,1,0,35604,0,0
+Flask,0,dde,descendants,record,99,0,73472,0,0
+Flask,0,dde,exact,edited,1,0,20649,0,0
+Flask,0,dde,descendants,edited,832,0,617626,0,0
+Flask,0,dde,exact,edited_child,1,0,31784,0,0
+Flask,0,dde,descendants,edited_child,25,0,22977,0,0
+Flask,0,dde,exact,dataset,1,0,6080,0,0
+Flask,0,dde,descendants,dataset,3046,0,1601666,0,0
+Flask,0,ordpath,insert,head,0,0,1158738,101216,15
+Flask,0,ordpath,delete,head,0,0,129308,22758,15
+Flask,0,ordpath,insert,head,0,0,316083,97316,15
+Flask,0,ordpath,delete,head,0,0,135320,23427,15
+Flask,0,ordpath,insert,middle,0,0,601111,357951,15
+Flask,0,ordpath,delete,middle,0,0,127095,23616,15
+Flask,0,ordpath,insert,middle,0,0,246178,97860,15
+Flask,0,ordpath,delete,middle,0,0,131536,24794,15
+Flask,0,ordpath,insert,tail,0,0,344461,94291,15
+Flask,0,ordpath,delete,tail,0,0,131245,23327,15
+Flask,0,ordpath,insert,tail,0,0,228961,97167,15
+Flask,0,ordpath,delete,tail,0,0,328515,22761,15
+Flask,0,ordpath,exact,record,1,0,4499,0,0
+Flask,0,ordpath,descendants,record,99,0,27283,0,0
+Flask,0,ordpath,exact,edited,1,0,4192,0,0
+Flask,0,ordpath,descendants,edited,832,0,199343,0,0
+Flask,0,ordpath,exact,edited_child,1,0,5631,0,0
+Flask,0,ordpath,descendants,edited_child,25,0,11308,0,0
+Flask,0,ordpath,exact,dataset,1,0,5451,0,0
+Flask,0,ordpath,descendants,dataset,3046,0,1054975,0,0
+Flask,0,dewey,insert,head,0,832,3118431,1064969,15
+Flask,0,dewey,delete,head,0,806,2226295,319368,15
+Flask,0,dewey,insert,head,0,832,2547547,606115,15
+Flask,0,dewey,delete,head,0,806,2690243,592308,15
+Flask,0,dewey,insert,middle,0,416,2054664,583466,15
+Flask,0,dewey,delete,middle,0,390,1655786,714021,15
+Flask,0,dewey,insert,middle,0,416,1803088,696490,15
+Flask,0,dewey,delete,middle,0,390,2471865,807512,15
+Flask,0,dewey,insert,tail,0,0,259467,119360,15
+Flask,0,dewey,delete,tail,0,26,179712,29254,15
+Flask,0,dewey,insert,tail,0,0,204764,87046,15
+Flask,0,dewey,delete,tail,0,26,604600,35466,15
+Flask,0,dewey,exact,record,1,0,12143,0,0
+Flask,0,dewey,descendants,record,99,0,35922,0,0
+Flask,0,dewey,exact,edited,1,0,4488,0,0
+Flask,0,dewey,descendants,edited,832,0,284880,0,0
+Flask,0,dewey,exact,edited_child,1,0,4558,0,0
+Flask,0,dewey,descendants,edited_child,25,0,9826,0,0
+Flask,0,dewey,exact,dataset,1,0,4437,0,0
+Flask,0,dewey,descendants,dataset,3046,0,851834,0,0
+Flask,1,ordpath,insert,head,0,0,266099,95573,15
+Flask,1,ordpath,delete,head,0,0,360781,172565,15
+Flask,1,ordpath,insert,head,0,0,787069,649430,15
+Flask,1,ordpath,delete,head,0,0,123601,21688,15
+Flask,1,ordpath,insert,middle,0,0,304889,159634,15
+Flask,1,ordpath,delete,middle,0,0,131879,23456,15
+Flask,1,ordpath,insert,middle,0,0,419965,155100,15
+Flask,1,ordpath,delete,middle,0,0,165732,26156,15
+Flask,1,ordpath,insert,tail,0,0,250940,111276,15
+Flask,1,ordpath,delete,tail,0,0,1064691,22304,15
+Flask,1,ordpath,insert,tail,0,0,265691,89082,15
+Flask,1,ordpath,delete,tail,0,0,167924,21674,15
+Flask,1,ordpath,exact,record,1,0,7485,0,0
+Flask,1,ordpath,descendants,record,99,0,31189,0,0
+Flask,1,ordpath,exact,edited,1,0,9932,0,0
+Flask,1,ordpath,descendants,edited,832,0,255089,0,0
+Flask,1,ordpath,exact,edited_child,1,0,8436,0,0
+Flask,1,ordpath,descendants,edited_child,25,0,10193,0,0
+Flask,1,ordpath,exact,dataset,1,0,4357,0,0
+Flask,1,ordpath,descendants,dataset,3046,0,1115598,0,0
+Flask,1,dde,insert,head,0,0,344207,95842,15
+Flask,1,dde,delete,head,0,0,132606,22373,15
+Flask,1,dde,insert,head,0,0,294451,97760,15
+Flask,1,dde,delete,head,0,0,321551,23514,15
+Flask,1,dde,insert,middle,0,0,308391,99702,18
+Flask,1,dde,delete,middle,0,0,144859,25259,18
+Flask,1,dde,insert,middle,0,0,347044,107317,18
+Flask,1,dde,delete,middle,0,0,168718,27757,18
+Flask,1,dde,insert,tail,0,0,381039,108268,18
+Flask,1,dde,delete,tail,0,0,389514,27627,18
+Flask,1,dde,insert,tail,0,0,596507,254004,18
+Flask,1,dde,delete,tail,0,0,1054909,31864,18
+Flask,1,dde,exact,record,1,0,4817,0,0
+Flask,1,dde,descendants,record,99,0,36161,0,0
+Flask,1,dde,exact,edited,1,0,4478,0,0
+Flask,1,dde,descendants,edited,832,0,259098,0,0
+Flask,1,dde,exact,edited_child,1,0,7257,0,0
+Flask,1,dde,descendants,edited_child,25,0,13191,0,0
+Flask,1,dde,exact,dataset,1,0,7813,0,0
+Flask,1,dde,descendants,dataset,3046,0,1156683,0,0
+Flask,1,dewey,insert,head,0,832,2922315,443195,15
+Flask,1,dewey,delete,head,0,806,1921502,237132,15
+Flask,1,dewey,insert,head,0,832,3023532,681943,15
+Flask,1,dewey,delete,head,0,806,2593564,254360,15
+Flask,1,dewey,insert,middle,0,416,1295178,245876,15
+Flask,1,dewey,delete,middle,0,390,1018432,111981,15
+Flask,1,dewey,insert,middle,0,416,1376072,182472,15
+Flask,1,dewey,delete,middle,0,390,1033960,192084,15
+Flask,1,dewey,insert,tail,0,0,400596,95114,15
+Flask,1,dewey,delete,tail,0,26,305413,103912,15
+Flask,1,dewey,insert,tail,0,0,256756,126907,15
+Flask,1,dewey,delete,tail,0,26,280169,34135,15
+Flask,1,dewey,exact,record,1,0,6065,0,0
+Flask,1,dewey,descendants,record,99,0,27770,0,0
+Flask,1,dewey,exact,edited,1,0,4335,0,0
+Flask,1,dewey,descendants,edited,832,0,211809,0,0
+Flask,1,dewey,exact,edited_child,1,0,4128,0,0
+Flask,1,dewey,descendants,edited_child,25,0,10023,0,0
+Flask,1,dewey,exact,dataset,1,0,4861,0,0
+Flask,1,dewey,descendants,dataset,3046,0,919695,0,0
+Flask,2,dewey,insert,head,0,832,2276473,345250,15
+Flask,2,dewey,delete,head,0,806,2334529,368763,15
+Flask,2,dewey,insert,head,0,832,3546285,480292,15
+Flask,2,dewey,delete,head,0,806,9997372,7213785,15
+Flask,2,dewey,insert,middle,0,416,1655618,437229,15
+Flask,2,dewey,delete,middle,0,390,972693,113524,15
+Flask,2,dewey,insert,middle,0,416,1408322,230843,15
+Flask,2,dewey,delete,middle,0,390,967698,145535,15
+Flask,2,dewey,insert,tail,0,0,395323,251133,15
+Flask,2,dewey,delete,tail,0,26,245059,34129,15
+Flask,2,dewey,insert,tail,0,0,218674,93170,15
+Flask,2,dewey,delete,tail,0,26,200557,35323,15
+Flask,2,dewey,exact,record,1,0,4842,0,0
+Flask,2,dewey,descendants,record,99,0,30758,0,0
+Flask,2,dewey,exact,edited,1,0,4434,0,0
+Flask,2,dewey,descendants,edited,832,0,216773,0,0
+Flask,2,dewey,exact,edited_child,1,0,4191,0,0
+Flask,2,dewey,descendants,edited_child,25,0,11839,0,0
+Flask,2,dewey,exact,dataset,1,0,6013,0,0
+Flask,2,dewey,descendants,dataset,3046,0,998544,0,0
+Flask,2,ordpath,insert,head,0,0,205993,90314,15
+Flask,2,ordpath,delete,head,0,0,312604,23147,15
+Flask,2,ordpath,insert,head,0,0,385494,95494,15
+Flask,2,ordpath,delete,head,0,0,130510,23423,15
+Flask,2,ordpath,insert,middle,0,0,248394,95690,15
+Flask,2,ordpath,delete,middle,0,0,150113,22510,15
+Flask,2,ordpath,insert,middle,0,0,246483,97361,15
+Flask,2,ordpath,delete,middle,0,0,195596,23964,15
+Flask,2,ordpath,insert,tail,0,0,378814,93101,15
+Flask,2,ordpath,delete,tail,0,0,131879,23066,15
+Flask,2,ordpath,insert,tail,0,0,222865,96990,15
+Flask,2,ordpath,delete,tail,0,0,173651,25181,15
+Flask,2,ordpath,exact,record,1,0,8721,0,0
+Flask,2,ordpath,descendants,record,99,0,35950,0,0
+Flask,2,ordpath,exact,edited,1,0,4468,0,0
+Flask,2,ordpath,descendants,edited,832,0,214198,0,0
+Flask,2,ordpath,exact,edited_child,1,0,4284,0,0
+Flask,2,ordpath,descendants,edited_child,25,0,11618,0,0
+Flask,2,ordpath,exact,dataset,1,0,13085,0,0
+Flask,2,ordpath,descendants,dataset,3046,0,914827,0,0
+Flask,2,dde,insert,head,0,0,271308,92100,15
+Flask,2,dde,delete,head,0,0,137396,24902,15
+Flask,2,dde,insert,head,0,0,1583423,381452,15
+Flask,2,dde,delete,head,0,0,446397,23355,15
+Flask,2,dde,insert,middle,0,0,486247,98432,18
+Flask,2,dde,delete,middle,0,0,517651,23919,18
+Flask,2,dde,insert,middle,0,0,464299,169036,18
+Flask,2,dde,delete,middle,0,0,236921,24398,18
+Flask,2,dde,insert,tail,0,0,353532,95137,18
+Flask,2,dde,delete,tail,0,0,412963,22886,18
+Flask,2,dde,insert,tail,0,0,873975,278363,18
+Flask,2,dde,delete,tail,0,0,185344,25658,18
+Flask,2,dde,exact,record,1,0,7835,0,0
+Flask,2,dde,descendants,record,99,0,38998,0,0
+Flask,2,dde,exact,edited,1,0,4425,0,0
+Flask,2,dde,descendants,edited,832,0,240312,0,0
+Flask,2,dde,exact,edited_child,1,0,4539,0,0
+Flask,2,dde,descendants,edited_child,25,0,16566,0,0
+Flask,2,dde,exact,dataset,1,0,4301,0,0
+Flask,2,dde,descendants,dataset,3046,0,1108015,0,0
+Flask,3,dde,insert,head,0,0,332530,130300,15
+Flask,3,dde,delete,head,0,0,134470,24402,15
+Flask,3,dde,insert,head,0,0,313147,96661,15
+Flask,3,dde,delete,head,0,0,190322,24369,15
+Flask,3,dde,insert,middle,0,0,316826,106447,18
+Flask,3,dde,delete,middle,0,0,410204,23992,18
+Flask,3,dde,insert,middle,0,0,794645,500250,18
+Flask,3,dde,delete,middle,0,0,183788,47160,18
+Flask,3,dde,insert,tail,0,0,555431,100379,18
+Flask,3,dde,delete,tail,0,0,246687,23174,18
+Flask,3,dde,insert,tail,0,0,646302,146745,18
+Flask,3,dde,delete,tail,0,0,882952,27941,18
+Flask,3,dde,exact,record,1,0,7759,0,0
+Flask,3,dde,descendants,record,99,0,31667,0,0
+Flask,3,dde,exact,edited,1,0,4430,0,0
+Flask,3,dde,descendants,edited,832,0,217759,0,0
+Flask,3,dde,exact,edited_child,1,0,6334,0,0
+Flask,3,dde,descendants,edited_child,25,0,12414,0,0
+Flask,3,dde,exact,dataset,1,0,12027,0,0
+Flask,3,dde,descendants,dataset,3046,0,970971,0,0
+Flask,3,dewey,insert,head,0,832,2143382,305986,15
+Flask,3,dewey,delete,head,0,806,3077675,316057,15
+Flask,3,dewey,insert,head,0,832,2021479,304140,15
+Flask,3,dewey,delete,head,0,806,2281180,230931,15
+Flask,3,dewey,insert,middle,0,416,1210763,287592,15
+Flask,3,dewey,delete,middle,0,390,1087076,113922,15
+Flask,3,dewey,insert,middle,0,416,1277131,189110,15
+Flask,3,dewey,delete,middle,0,390,1478697,185301,15
+Flask,3,dewey,insert,tail,0,0,338989,95076,15
+Flask,3,dewey,delete,tail,0,26,299549,67349,15
+Flask,3,dewey,insert,tail,0,0,202329,87800,15
+Flask,3,dewey,delete,tail,0,26,199575,34294,15
+Flask,3,dewey,exact,record,1,0,4751,0,0
+Flask,3,dewey,descendants,record,99,0,28652,0,0
+Flask,3,dewey,exact,edited,1,0,4393,0,0
+Flask,3,dewey,descendants,edited,832,0,245411,0,0
+Flask,3,dewey,exact,edited_child,1,0,4473,0,0
+Flask,3,dewey,descendants,edited_child,25,0,15400,0,0
+Flask,3,dewey,exact,dataset,1,0,4434,0,0
+Flask,3,dewey,descendants,dataset,3046,0,981764,0,0
+Flask,3,ordpath,insert,head,0,0,324133,192220,15
+Flask,3,ordpath,delete,head,0,0,167543,62749,15
+Flask,3,ordpath,insert,head,0,0,362036,230379,15
+Flask,3,ordpath,delete,head,0,0,253115,23634,15
+Flask,3,ordpath,insert,middle,0,0,449690,201993,15
+Flask,3,ordpath,delete,middle,0,0,568401,370407,15
+Flask,3,ordpath,insert,middle,0,0,763201,548074,15
+Flask,3,ordpath,delete,middle,0,0,123889,21947,15
+Flask,3,ordpath,insert,tail,0,0,325514,93748,15
+Flask,3,ordpath,delete,tail,0,0,131627,23001,15
+Flask,3,ordpath,insert,tail,0,0,309846,94858,15
+Flask,3,ordpath,delete,tail,0,0,187185,22777,15
+Flask,3,ordpath,exact,record,1,0,4725,0,0
+Flask,3,ordpath,descendants,record,99,0,43002,0,0
+Flask,3,ordpath,exact,edited,1,0,6849,0,0
+Flask,3,ordpath,descendants,edited,832,0,261484,0,0
+Flask,3,ordpath,exact,edited_child,1,0,4508,0,0
+Flask,3,ordpath,descendants,edited_child,25,0,10944,0,0
+Flask,3,ordpath,exact,dataset,1,0,4529,0,0
+Flask,3,ordpath,descendants,dataset,3046,0,924003,0,0
+Flask,4,dde,insert,head,0,0,269986,93023,15
+Flask,4,dde,delete,head,0,0,133459,24383,15
+Flask,4,dde,insert,head,0,0,288059,96759,15
+Flask,4,dde,delete,head,0,0,149694,23162,15
+Flask,4,dde,insert,middle,0,0,310929,100849,18
+Flask,4,dde,delete,middle,0,0,135216,23915,18
+Flask,4,dde,insert,middle,0,0,397568,92935,18
+Flask,4,dde,delete,middle,0,0,145927,23471,18
+Flask,4,dde,insert,tail,0,0,550779,94056,18
+Flask,4,dde,delete,tail,0,0,244963,37855,18
+Flask,4,dde,insert,tail,0,0,1081697,99456,18
+Flask,4,dde,delete,tail,0,0,189501,23703,18
+Flask,4,dde,exact,record,1,0,4905,0,0
+Flask,4,dde,descendants,record,99,0,30318,0,0
+Flask,4,dde,exact,edited,1,0,4554,0,0
+Flask,4,dde,descendants,edited,832,0,272109,0,0
+Flask,4,dde,exact,edited_child,1,0,6635,0,0
+Flask,4,dde,descendants,edited_child,25,0,14305,0,0
+Flask,4,dde,exact,dataset,1,0,6291,0,0
+Flask,4,dde,descendants,dataset,3046,0,1141540,0,0
+Flask,4,dewey,insert,head,0,832,2633927,472178,15
+Flask,4,dewey,delete,head,0,806,5276651,615628,15
+Flask,4,dewey,insert,head,0,832,2557896,307783,15
+Flask,4,dewey,delete,head,0,806,4772889,193116,15
+Flask,4,dewey,insert,middle,0,416,1592202,219556,15
+Flask,4,dewey,delete,middle,0,390,1246089,142742,15
+Flask,4,dewey,insert,middle,0,416,1976625,732310,15
+Flask,4,dewey,delete,middle,0,390,1549914,159548,15
+Flask,4,dewey,insert,tail,0,0,440997,90873,15
+Flask,4,dewey,delete,tail,0,26,192732,34555,15
+Flask,4,dewey,insert,tail,0,0,361468,91020,15
+Flask,4,dewey,delete,tail,0,26,202006,33593,15
+Flask,4,dewey,exact,record,1,0,4999,0,0
+Flask,4,dewey,descendants,record,99,0,27700,0,0
+Flask,4,dewey,exact,edited,1,0,4268,0,0
+Flask,4,dewey,descendants,edited,832,0,273717,0,0
+Flask,4,dewey,exact,edited_child,1,0,5934,0,0
+Flask,4,dewey,descendants,edited_child,25,0,12200,0,0
+Flask,4,dewey,exact,dataset,1,0,4159,0,0
+Flask,4,dewey,descendants,dataset,3046,0,963709,0,0
+Flask,4,ordpath,insert,head,0,0,239831,117890,15
+Flask,4,ordpath,delete,head,0,0,127526,23247,15
+Flask,4,ordpath,insert,head,0,0,452888,324951,15
+Flask,4,ordpath,delete,head,0,0,255532,25791,15
+Flask,4,ordpath,insert,middle,0,0,290238,118873,15
+Flask,4,ordpath,delete,middle,0,0,262420,24182,15
+Flask,4,ordpath,insert,middle,0,0,274703,94476,15
+Flask,4,ordpath,delete,middle,0,0,128425,23794,15
+Flask,4,ordpath,insert,tail,0,0,408062,262576,15
+Flask,4,ordpath,delete,tail,0,0,126596,23601,15
+Flask,4,ordpath,insert,tail,0,0,245440,118176,15
+Flask,4,ordpath,delete,tail,0,0,135907,25030,15
+Flask,4,ordpath,exact,record,1,0,4737,0,0
+Flask,4,ordpath,descendants,record,99,0,32113,0,0
+Flask,4,ordpath,exact,edited,1,0,5835,0,0
+Flask,4,ordpath,descendants,edited,832,0,263001,0,0
+Flask,4,ordpath,exact,edited_child,1,0,4374,0,0
+Flask,4,ordpath,descendants,edited_child,25,0,14519,0,0
+Flask,4,ordpath,exact,dataset,1,0,8407,0,0
+Flask,4,ordpath,descendants,dataset,3046,0,991194,0,0
+Flask,5,dde,insert,head,0,0,403603,91181,15
+Flask,5,dde,delete,head,0,0,139027,25825,15
+Flask,5,dde,insert,head,0,0,453553,254384,15
+Flask,5,dde,delete,head,0,0,156263,24405,15
+Flask,5,dde,insert,middle,0,0,369968,97999,18
+Flask,5,dde,delete,middle,0,0,139648,24716,18
+Flask,5,dde,insert,middle,0,0,349375,116390,18
+Flask,5,dde,delete,middle,0,0,153346,26244,18
+Flask,5,dde,insert,tail,0,0,294286,95940,18
+Flask,5,dde,delete,tail,0,0,178855,63500,18
+Flask,5,dde,insert,tail,0,0,390163,160142,18
+Flask,5,dde,delete,tail,0,0,272135,24431,18
+Flask,5,dde,exact,record,1,0,4877,0,0
+Flask,5,dde,descendants,record,99,0,27146,0,0
+Flask,5,dde,exact,edited,1,0,4399,0,0
+Flask,5,dde,descendants,edited,832,0,216607,0,0
+Flask,5,dde,exact,edited_child,1,0,7331,0,0
+Flask,5,dde,descendants,edited_child,25,0,10138,0,0
+Flask,5,dde,exact,dataset,1,0,4464,0,0
+Flask,5,dde,descendants,dataset,3046,0,1052316,0,0
+Flask,5,dewey,insert,head,0,832,2203082,298223,15
+Flask,5,dewey,delete,head,0,806,2280907,301931,15
+Flask,5,dewey,insert,head,0,832,2229342,309877,15
+Flask,5,dewey,delete,head,0,806,2565549,196461,15
+Flask,5,dewey,insert,middle,0,416,1306609,220462,15
+Flask,5,dewey,delete,middle,0,390,1261493,204791,15
+Flask,5,dewey,insert,middle,0,416,2057426,289259,15
+Flask,5,dewey,delete,middle,0,390,940493,117706,15
+Flask,5,dewey,insert,tail,0,0,306842,92294,15
+Flask,5,dewey,delete,tail,0,26,219901,37641,15
+Flask,5,dewey,insert,tail,0,0,217911,91407,15
+Flask,5,dewey,delete,tail,0,26,210318,35180,15
+Flask,5,dewey,exact,record,1,0,4646,0,0
+Flask,5,dewey,descendants,record,99,0,44231,0,0
+Flask,5,dewey,exact,edited,1,0,5035,0,0
+Flask,5,dewey,descendants,edited,832,0,261210,0,0
+Flask,5,dewey,exact,edited_child,1,0,4137,0,0
+Flask,5,dewey,descendants,edited_child,25,0,11801,0,0
+Flask,5,dewey,exact,dataset,1,0,6835,0,0
+Flask,5,dewey,descendants,dataset,3046,0,1083637,0,0
+Flask,5,ordpath,insert,head,0,0,348820,94075,15
+Flask,5,ordpath,delete,head,0,0,182367,69479,15
+Flask,5,ordpath,insert,head,0,0,568613,167297,15
+Flask,5,ordpath,delete,head,0,0,134871,22211,15
+Flask,5,ordpath,insert,middle,0,0,245218,92389,15
+Flask,5,ordpath,delete,middle,0,0,130697,23548,15
+Flask,5,ordpath,insert,middle,0,0,276706,97918,15
+Flask,5,ordpath,delete,middle,0,0,246260,23487,15
+Flask,5,ordpath,insert,tail,0,0,306057,153636,15
+Flask,5,ordpath,delete,tail,0,0,134234,22969,15
+Flask,5,ordpath,insert,tail,0,0,250882,125034,15
+Flask,5,ordpath,delete,tail,0,0,127181,23091,15
+Flask,5,ordpath,exact,record,1,0,4764,0,0
+Flask,5,ordpath,descendants,record,99,0,34156,0,0
+Flask,5,ordpath,exact,edited,1,0,5043,0,0
+Flask,5,ordpath,descendants,edited,832,0,229740,0,0
+Flask,5,ordpath,exact,edited_child,1,0,6871,0,0
+Flask,5,ordpath,descendants,edited_child,25,0,13186,0,0
+Flask,5,ordpath,exact,dataset,1,0,7592,0,0
+Flask,5,ordpath,descendants,dataset,3046,0,1188429,0,0
+Flask,6,dewey,insert,head,0,832,2857542,312761,15
+Flask,6,dewey,delete,head,0,806,2240959,308881,15
+Flask,6,dewey,insert,head,0,832,2807693,307911,15
+Flask,6,dewey,delete,head,0,806,2117885,515224,15
+Flask,6,dewey,insert,middle,0,416,1832801,934410,15
+Flask,6,dewey,delete,middle,0,390,1533201,532439,15
+Flask,6,dewey,insert,middle,0,416,1676380,582450,15
+Flask,6,dewey,delete,middle,0,390,1358497,509728,15
+Flask,6,dewey,insert,tail,0,0,249062,107811,15
+Flask,6,dewey,delete,tail,0,26,213605,49293,15
+Flask,6,dewey,insert,tail,0,0,205874,88353,15
+Flask,6,dewey,delete,tail,0,26,502740,35435,15
+Flask,6,dewey,exact,record,1,0,5304,0,0
+Flask,6,dewey,descendants,record,99,0,42633,0,0
+Flask,6,dewey,exact,edited,1,0,4476,0,0
+Flask,6,dewey,descendants,edited,832,0,240542,0,0
+Flask,6,dewey,exact,edited_child,1,0,4667,0,0
+Flask,6,dewey,descendants,edited_child,25,0,12387,0,0
+Flask,6,dewey,exact,dataset,1,0,4445,0,0
+Flask,6,dewey,descendants,dataset,3046,0,918348,0,0
+Flask,6,dde,insert,head,0,0,570858,185410,15
+Flask,6,dde,delete,head,0,0,132130,23483,15
+Flask,6,dde,insert,head,0,0,288005,93721,15
+Flask,6,dde,delete,head,0,0,148958,23325,15
+Flask,6,dde,insert,middle,0,0,542479,227229,18
+Flask,6,dde,delete,middle,0,0,136338,24224,18
+Flask,6,dde,insert,middle,0,0,374947,99065,18
+Flask,6,dde,delete,middle,0,0,152821,27064,18
+Flask,6,dde,insert,tail,0,0,290193,95606,18
+Flask,6,dde,delete,tail,0,0,187107,24820,18
+Flask,6,dde,insert,tail,0,0,459678,95130,18
+Flask,6,dde,delete,tail,0,0,133880,24220,18
+Flask,6,dde,exact,record,1,0,9239,0,0
+Flask,6,dde,descendants,record,99,0,50658,0,0
+Flask,6,dde,exact,edited,1,0,5256,0,0
+Flask,6,dde,descendants,edited,832,0,207781,0,0
+Flask,6,dde,exact,edited_child,1,0,4921,0,0
+Flask,6,dde,descendants,edited_child,25,0,10149,0,0
+Flask,6,dde,exact,dataset,1,0,5039,0,0
+Flask,6,dde,descendants,dataset,3046,0,953923,0,0
+Flask,6,ordpath,insert,head,0,0,257794,94547,15
+Flask,6,ordpath,delete,head,0,0,137003,24958,15
+Flask,6,ordpath,insert,head,0,0,390278,259158,15
+Flask,6,ordpath,delete,head,0,0,128787,24007,15
+Flask,6,ordpath,insert,middle,0,0,477017,245675,15
+Flask,6,ordpath,delete,middle,0,0,137341,24275,15
+Flask,6,ordpath,insert,middle,0,0,248163,95873,15
+Flask,6,ordpath,delete,middle,0,0,128853,22618,15
+Flask,6,ordpath,insert,tail,0,0,238998,92519,15
+Flask,6,ordpath,delete,tail,0,0,127255,22809,15
+Flask,6,ordpath,insert,tail,0,0,384552,170911,15
+Flask,6,ordpath,delete,tail,0,0,133017,24214,15
+Flask,6,ordpath,exact,record,1,0,6627,0,0
+Flask,6,ordpath,descendants,record,99,0,28671,0,0
+Flask,6,ordpath,exact,edited,1,0,6219,0,0
+Flask,6,ordpath,descendants,edited,832,0,239458,0,0
+Flask,6,ordpath,exact,edited_child,1,0,4273,0,0
+Flask,6,ordpath,descendants,edited_child,25,0,10215,0,0
+Flask,6,ordpath,exact,dataset,1,0,4494,0,0
+Flask,6,ordpath,descendants,dataset,3046,0,1198566,0,0
+NYC 311,0,ordpath,insert,head,0,0,430655,204869,15
+NYC 311,0,ordpath,delete,head,0,0,240854,23572,15
+NYC 311,0,ordpath,insert,head,0,0,262210,127627,15
+NYC 311,0,ordpath,delete,head,0,0,331229,23033,15
+NYC 311,0,ordpath,insert,middle,0,0,449806,195903,15
+NYC 311,0,ordpath,delete,middle,0,0,352858,24851,15
+NYC 311,0,ordpath,insert,middle,0,0,362312,113280,15
+NYC 311,0,ordpath,delete,middle,0,0,159392,49493,15
+NYC 311,0,ordpath,insert,tail,0,0,289536,94719,15
+NYC 311,0,ordpath,delete,tail,0,0,201794,24175,15
+NYC 311,0,ordpath,insert,tail,0,0,328876,129548,15
+NYC 311,0,ordpath,delete,tail,0,0,345043,24367,15
+NYC 311,0,ordpath,exact,record,1,0,6896,0,0
+NYC 311,0,ordpath,descendants,record,22,0,9848,0,0
+NYC 311,0,ordpath,exact,edited,1,0,4551,0,0
+NYC 311,0,ordpath,descendants,edited,832,0,229928,0,0
+NYC 311,0,ordpath,exact,edited_child,1,0,5635,0,0
+NYC 311,0,ordpath,descendants,edited_child,25,0,22639,0,0
+NYC 311,0,ordpath,exact,dataset,1,0,4708,0,0
+NYC 311,0,ordpath,descendants,dataset,6499,0,1959114,0,0
+NYC 311,0,dewey,insert,head,0,832,2645926,400342,15
+NYC 311,0,dewey,delete,head,0,806,2291151,488103,15
+NYC 311,0,dewey,insert,head,0,832,2563985,305569,15
+NYC 311,0,dewey,delete,head,0,806,2900710,498066,15
+NYC 311,0,dewey,insert,middle,0,416,1083654,207748,15
+NYC 311,0,dewey,delete,middle,0,390,1440282,318399,15
+NYC 311,0,dewey,insert,middle,0,416,1848726,271365,15
+NYC 311,0,dewey,delete,middle,0,390,2994384,721969,15
+NYC 311,0,dewey,insert,tail,0,0,420193,87767,15
+NYC 311,0,dewey,delete,tail,0,26,195896,33798,15
+NYC 311,0,dewey,insert,tail,0,0,346075,156545,15
+NYC 311,0,dewey,delete,tail,0,26,294288,37905,15
+NYC 311,0,dewey,exact,record,1,0,7172,0,0
+NYC 311,0,dewey,descendants,record,22,0,11309,0,0
+NYC 311,0,dewey,exact,edited,1,0,4936,0,0
+NYC 311,0,dewey,descendants,edited,832,0,215262,0,0
+NYC 311,0,dewey,exact,edited_child,1,0,4528,0,0
+NYC 311,0,dewey,descendants,edited_child,25,0,11357,0,0
+NYC 311,0,dewey,exact,dataset,1,0,4467,0,0
+NYC 311,0,dewey,descendants,dataset,6499,0,2172056,0,0
+NYC 311,0,dde,insert,head,0,0,389192,132801,15
+NYC 311,0,dde,delete,head,0,0,263140,25079,15
+NYC 311,0,dde,insert,head,0,0,350629,110980,15
+NYC 311,0,dde,delete,head,0,0,157398,28071,15
+NYC 311,0,dde,insert,middle,0,0,435474,125855,18
+NYC 311,0,dde,delete,middle,0,0,180966,34329,18
+NYC 311,0,dde,insert,middle,0,0,928865,195646,18
+NYC 311,0,dde,delete,middle,0,0,243996,31302,18
+NYC 311,0,dde,insert,tail,0,0,452877,137420,18
+NYC 311,0,dde,delete,tail,0,0,1833401,33544,18
+NYC 311,0,dde,insert,tail,0,0,804659,164233,18
+NYC 311,0,dde,delete,tail,0,0,264566,32004,18
+NYC 311,0,dde,exact,record,1,0,7437,0,0
+NYC 311,0,dde,descendants,record,22,0,11085,0,0
+NYC 311,0,dde,exact,edited,1,0,5675,0,0
+NYC 311,0,dde,descendants,edited,832,0,225701,0,0
+NYC 311,0,dde,exact,edited_child,1,0,6409,0,0
+NYC 311,0,dde,descendants,edited_child,25,0,18636,0,0
+NYC 311,0,dde,exact,dataset,1,0,5283,0,0
+NYC 311,0,dde,descendants,dataset,6499,0,2248768,0,0
+NYC 311,1,dewey,insert,head,0,832,2185946,306725,15
+NYC 311,1,dewey,delete,head,0,806,1787286,243359,15
+NYC 311,1,dewey,insert,head,0,832,2364883,304434,15
+NYC 311,1,dewey,delete,head,0,806,2431925,252005,15
+NYC 311,1,dewey,insert,middle,0,416,1201205,186736,15
+NYC 311,1,dewey,delete,middle,0,390,1199687,143092,15
+NYC 311,1,dewey,insert,middle,0,416,1269708,303658,15
+NYC 311,1,dewey,delete,middle,0,390,1077008,225966,15
+NYC 311,1,dewey,insert,tail,0,0,238454,95398,15
+NYC 311,1,dewey,delete,tail,0,26,193129,34957,15
+NYC 311,1,dewey,insert,tail,0,0,362843,153717,15
+NYC 311,1,dewey,delete,tail,0,26,363230,35530,15
+NYC 311,1,dewey,exact,record,1,0,4667,0,0
+NYC 311,1,dewey,descendants,record,22,0,10620,0,0
+NYC 311,1,dewey,exact,edited,1,0,4323,0,0
+NYC 311,1,dewey,descendants,edited,832,0,196578,0,0
+NYC 311,1,dewey,exact,edited_child,1,0,4219,0,0
+NYC 311,1,dewey,descendants,edited_child,25,0,20387,0,0
+NYC 311,1,dewey,exact,dataset,1,0,5714,0,0
+NYC 311,1,dewey,descendants,dataset,6499,0,2010152,0,0
+NYC 311,1,ordpath,insert,head,0,0,355788,216021,15
+NYC 311,1,ordpath,delete,head,0,0,144581,24583,15
+NYC 311,1,ordpath,insert,head,0,0,311049,160954,15
+NYC 311,1,ordpath,delete,head,0,0,260185,25892,15
+NYC 311,1,ordpath,insert,middle,0,0,677941,460586,15
+NYC 311,1,ordpath,delete,middle,0,0,179865,31682,15
+NYC 311,1,ordpath,insert,middle,0,0,302382,102851,15
+NYC 311,1,ordpath,delete,middle,0,0,287054,25873,15
+NYC 311,1,ordpath,insert,tail,0,0,836993,237570,15
+NYC 311,1,ordpath,delete,tail,0,0,135153,23097,15
+NYC 311,1,ordpath,insert,tail,0,0,236431,98663,15
+NYC 311,1,ordpath,delete,tail,0,0,5233201,25166,15
+NYC 311,1,ordpath,exact,record,1,0,14282,0,0
+NYC 311,1,ordpath,descendants,record,22,0,21335,0,0
+NYC 311,1,ordpath,exact,edited,1,0,6518,0,0
+NYC 311,1,ordpath,descendants,edited,832,0,276481,0,0
+NYC 311,1,ordpath,exact,edited_child,1,0,4898,0,0
+NYC 311,1,ordpath,descendants,edited_child,25,0,21993,0,0
+NYC 311,1,ordpath,exact,dataset,1,0,5027,0,0
+NYC 311,1,ordpath,descendants,dataset,6499,0,1983506,0,0
+NYC 311,1,dde,insert,head,0,0,663071,96710,15
+NYC 311,1,dde,delete,head,0,0,168533,29439,15
+NYC 311,1,dde,insert,head,0,0,507233,171442,15
+NYC 311,1,dde,delete,head,0,0,263464,25597,15
+NYC 311,1,dde,insert,middle,0,0,391828,141663,18
+NYC 311,1,dde,delete,middle,0,0,176190,32356,18
+NYC 311,1,dde,insert,middle,0,0,429120,117415,18
+NYC 311,1,dde,delete,middle,0,0,168766,28860,18
+NYC 311,1,dde,insert,tail,0,0,395663,169233,18
+NYC 311,1,dde,delete,tail,0,0,216045,28940,18
+NYC 311,1,dde,insert,tail,0,0,385644,111842,18
+NYC 311,1,dde,delete,tail,0,0,339903,25745,18
+NYC 311,1,dde,exact,record,1,0,6492,0,0
+NYC 311,1,dde,descendants,record,22,0,10260,0,0
+NYC 311,1,dde,exact,edited,1,0,5310,0,0
+NYC 311,1,dde,descendants,edited,832,0,255579,0,0
+NYC 311,1,dde,exact,edited_child,1,0,5173,0,0
+NYC 311,1,dde,descendants,edited_child,25,0,10570,0,0
+NYC 311,1,dde,exact,dataset,1,0,6649,0,0
+NYC 311,1,dde,descendants,dataset,6499,0,1916633,0,0
+NYC 311,2,dde,insert,head,0,0,355389,100373,15
+NYC 311,2,dde,delete,head,0,0,141133,23637,15
+NYC 311,2,dde,insert,head,0,0,338472,92651,15
+NYC 311,2,dde,delete,head,0,0,139102,23696,15
+NYC 311,2,dde,insert,middle,0,0,426671,98535,18
+NYC 311,2,dde,delete,middle,0,0,135111,23223,18
+NYC 311,2,dde,insert,middle,0,0,361587,106475,18
+NYC 311,2,dde,delete,middle,0,0,140637,24902,18
+NYC 311,2,dde,insert,tail,0,0,342158,135619,18
+NYC 311,2,dde,delete,tail,0,0,131051,24885,18
+NYC 311,2,dde,insert,tail,0,0,553402,343205,18
+NYC 311,2,dde,delete,tail,0,0,158113,39799,18
+NYC 311,2,dde,exact,record,1,0,4914,0,0
+NYC 311,2,dde,descendants,record,22,0,16754,0,0
+NYC 311,2,dde,exact,edited,1,0,6241,0,0
+NYC 311,2,dde,descendants,edited,832,0,248012,0,0
+NYC 311,2,dde,exact,edited_child,1,0,7626,0,0
+NYC 311,2,dde,descendants,edited_child,25,0,13305,0,0
+NYC 311,2,dde,exact,dataset,1,0,6337,0,0
+NYC 311,2,dde,descendants,dataset,6499,0,1809755,0,0
+NYC 311,2,dewey,insert,head,0,832,4198245,477323,15
+NYC 311,2,dewey,delete,head,0,806,2171947,306460,15
+NYC 311,2,dewey,insert,head,0,832,2142292,437540,15
+NYC 311,2,dewey,delete,head,0,806,9247599,7556877,15
+NYC 311,2,dewey,insert,middle,0,416,1262554,187531,15
+NYC 311,2,dewey,delete,middle,0,390,1122216,268564,15
+NYC 311,2,dewey,insert,middle,0,416,1224970,185687,15
+NYC 311,2,dewey,delete,middle,0,390,1237435,139220,15
+NYC 311,2,dewey,insert,tail,0,0,230763,88795,15
+NYC 311,2,dewey,delete,tail,0,26,360134,65900,15
+NYC 311,2,dewey,insert,tail,0,0,225736,96357,15
+NYC 311,2,dewey,delete,tail,0,26,382309,221741,15
+NYC 311,2,dewey,exact,record,1,0,14665,0,0
+NYC 311,2,dewey,descendants,record,22,0,9234,0,0
+NYC 311,2,dewey,exact,edited,1,0,4177,0,0
+NYC 311,2,dewey,descendants,edited,832,0,253546,0,0
+NYC 311,2,dewey,exact,edited_child,1,0,4316,0,0
+NYC 311,2,dewey,descendants,edited_child,25,0,21199,0,0
+NYC 311,2,dewey,exact,dataset,1,0,4594,0,0
+NYC 311,2,dewey,descendants,dataset,6499,0,1897728,0,0
+NYC 311,2,ordpath,insert,head,0,0,321743,179903,15
+NYC 311,2,ordpath,delete,head,0,0,159868,23931,15
+NYC 311,2,ordpath,insert,head,0,0,495443,307664,15
+NYC 311,2,ordpath,delete,head,0,0,149026,23626,15
+NYC 311,2,ordpath,insert,middle,0,0,231736,92387,15
+NYC 311,2,ordpath,delete,middle,0,0,300768,22164,15
+NYC 311,2,ordpath,insert,middle,0,0,507836,234188,15
+NYC 311,2,ordpath,delete,middle,0,0,132250,23851,15
+NYC 311,2,ordpath,insert,tail,0,0,231259,88532,15
+NYC 311,2,ordpath,delete,tail,0,0,124052,21325,15
+NYC 311,2,ordpath,insert,tail,0,0,336870,152498,15
+NYC 311,2,ordpath,delete,tail,0,0,131294,23830,15
+NYC 311,2,ordpath,exact,record,1,0,6154,0,0
+NYC 311,2,ordpath,descendants,record,22,0,10758,0,0
+NYC 311,2,ordpath,exact,edited,1,0,4490,0,0
+NYC 311,2,ordpath,descendants,edited,832,0,231153,0,0
+NYC 311,2,ordpath,exact,edited_child,1,0,4753,0,0
+NYC 311,2,ordpath,descendants,edited_child,25,0,10915,0,0
+NYC 311,2,ordpath,exact,dataset,1,0,6852,0,0
+NYC 311,2,ordpath,descendants,dataset,6499,0,1925312,0,0
+NYC 311,3,dewey,insert,head,0,832,2400987,291015,15
+NYC 311,3,dewey,delete,head,0,806,1972700,248462,15
+NYC 311,3,dewey,insert,head,0,832,2460774,303613,15
+NYC 311,3,dewey,delete,head,0,806,2109181,254641,15
+NYC 311,3,dewey,insert,middle,0,416,1801945,239517,15
+NYC 311,3,dewey,delete,middle,0,390,1075002,140820,15
+NYC 311,3,dewey,insert,middle,0,416,1224148,177713,15
+NYC 311,3,dewey,delete,middle,0,390,1679961,293459,15
+NYC 311,3,dewey,insert,tail,0,0,243653,95374,15
+NYC 311,3,dewey,delete,tail,0,26,225745,33158,15
+NYC 311,3,dewey,insert,tail,0,0,556225,424607,15
+NYC 311,3,dewey,delete,tail,0,26,190525,33894,15
+NYC 311,3,dewey,exact,record,1,0,4694,0,0
+NYC 311,3,dewey,descendants,record,22,0,15975,0,0
+NYC 311,3,dewey,exact,edited,1,0,5247,0,0
+NYC 311,3,dewey,descendants,edited,832,0,225867,0,0
+NYC 311,3,dewey,exact,edited_child,1,0,4422,0,0
+NYC 311,3,dewey,descendants,edited_child,25,0,14719,0,0
+NYC 311,3,dewey,exact,dataset,1,0,5810,0,0
+NYC 311,3,dewey,descendants,dataset,6499,0,1944695,0,0
+NYC 311,3,dde,insert,head,0,0,359349,177628,15
+NYC 311,3,dde,delete,head,0,0,139184,25666,15
+NYC 311,3,dde,insert,head,0,0,568661,317960,15
+NYC 311,3,dde,delete,head,0,0,167031,25964,15
+NYC 311,3,dde,insert,middle,0,0,360978,113953,18
+NYC 311,3,dde,delete,middle,0,0,145684,25323,18
+NYC 311,3,dde,insert,middle,0,0,386839,118808,18
+NYC 311,3,dde,delete,middle,0,0,159367,25472,18
+NYC 311,3,dde,insert,tail,0,0,516143,110180,18
+NYC 311,3,dde,delete,tail,0,0,377438,29002,18
+NYC 311,3,dde,insert,tail,0,0,479900,139241,18
+NYC 311,3,dde,delete,tail,0,0,216424,26731,18
+NYC 311,3,dde,exact,record,1,0,6274,0,0
+NYC 311,3,dde,descendants,record,22,0,17627,0,0
+NYC 311,3,dde,exact,edited,1,0,5198,0,0
+NYC 311,3,dde,descendants,edited,832,0,243925,0,0
+NYC 311,3,dde,exact,edited_child,1,0,12474,0,0
+NYC 311,3,dde,descendants,edited_child,25,0,11231,0,0
+NYC 311,3,dde,exact,dataset,1,0,5805,0,0
+NYC 311,3,dde,descendants,dataset,6499,0,2060708,0,0
+NYC 311,3,ordpath,insert,head,0,0,358636,218226,15
+NYC 311,3,ordpath,delete,head,0,0,136957,25228,15
+NYC 311,3,ordpath,insert,head,0,0,260878,94690,15
+NYC 311,3,ordpath,delete,head,0,0,555843,24068,15
+NYC 311,3,ordpath,insert,middle,0,0,267022,96264,15
+NYC 311,3,ordpath,delete,middle,0,0,138704,24411,15
+NYC 311,3,ordpath,insert,middle,0,0,503879,282061,15
+NYC 311,3,ordpath,delete,middle,0,0,137333,24509,15
+NYC 311,3,ordpath,insert,tail,0,0,241105,98063,15
+NYC 311,3,ordpath,delete,tail,0,0,178849,70944,15
+NYC 311,3,ordpath,insert,tail,0,0,266085,119263,15
+NYC 311,3,ordpath,delete,tail,0,0,134574,24752,15
+NYC 311,3,ordpath,exact,record,1,0,5322,0,0
+NYC 311,3,ordpath,descendants,record,22,0,9486,0,0
+NYC 311,3,ordpath,exact,edited,1,0,5539,0,0
+NYC 311,3,ordpath,descendants,edited,832,0,216759,0,0
+NYC 311,3,ordpath,exact,edited_child,1,0,7968,0,0
+NYC 311,3,ordpath,descendants,edited_child,25,0,17570,0,0
+NYC 311,3,ordpath,exact,dataset,1,0,4604,0,0
+NYC 311,3,ordpath,descendants,dataset,6499,0,1916625,0,0
+NYC 311,4,dde,insert,head,0,0,268572,91684,15
+NYC 311,4,dde,delete,head,0,0,334323,103908,15
+NYC 311,4,dde,insert,head,0,0,403004,100467,15
+NYC 311,4,dde,delete,head,0,0,174597,24546,15
+NYC 311,4,dde,insert,middle,0,0,479911,108209,18
+NYC 311,4,dde,delete,middle,0,0,183079,57365,18
+NYC 311,4,dde,insert,middle,0,0,949694,362846,18
+NYC 311,4,dde,delete,middle,0,0,227531,106800,18
+NYC 311,4,dde,insert,tail,0,0,322613,120106,18
+NYC 311,4,dde,delete,tail,0,0,161569,54386,18
+NYC 311,4,dde,insert,tail,0,0,338401,103855,18
+NYC 311,4,dde,delete,tail,0,0,171359,25781,18
+NYC 311,4,dde,exact,record,1,0,6465,0,0
+NYC 311,4,dde,descendants,record,22,0,22457,0,0
+NYC 311,4,dde,exact,edited,1,0,4445,0,0
+NYC 311,4,dde,descendants,edited,832,0,333353,0,0
+NYC 311,4,dde,exact,edited_child,1,0,8572,0,0
+NYC 311,4,dde,descendants,edited_child,25,0,25135,0,0
+NYC 311,4,dde,exact,dataset,1,0,5359,0,0
+NYC 311,4,dde,descendants,dataset,6499,0,2109958,0,0
+NYC 311,4,dewey,insert,head,0,832,2451483,325238,15
+NYC 311,4,dewey,delete,head,0,806,3012365,237505,15
+NYC 311,4,dewey,insert,head,0,832,3203606,327381,15
+NYC 311,4,dewey,delete,head,0,806,2601560,244173,15
+NYC 311,4,dewey,insert,middle,0,416,1513662,184386,15
+NYC 311,4,dewey,delete,middle,0,390,1149625,311473,15
+NYC 311,4,dewey,insert,middle,0,416,1424575,225289,15
+NYC 311,4,dewey,delete,middle,0,390,1609873,299221,15
+NYC 311,4,dewey,insert,tail,0,0,1172623,445636,15
+NYC 311,4,dewey,delete,tail,0,26,193880,34320,15
+NYC 311,4,dewey,insert,tail,0,0,432358,234435,15
+NYC 311,4,dewey,delete,tail,0,26,310345,151852,15
+NYC 311,4,dewey,exact,record,1,0,7255,0,0
+NYC 311,4,dewey,descendants,record,22,0,9294,0,0
+NYC 311,4,dewey,exact,edited,1,0,5064,0,0
+NYC 311,4,dewey,descendants,edited,832,0,235001,0,0
+NYC 311,4,dewey,exact,edited_child,1,0,19996,0,0
+NYC 311,4,dewey,descendants,edited_child,25,0,20589,0,0
+NYC 311,4,dewey,exact,dataset,1,0,5988,0,0
+NYC 311,4,dewey,descendants,dataset,6499,0,2234953,0,0
+NYC 311,4,ordpath,insert,head,0,0,222751,93976,15
+NYC 311,4,ordpath,delete,head,0,0,162493,23189,15
+NYC 311,4,ordpath,insert,head,0,0,344446,92954,15
+NYC 311,4,ordpath,delete,head,0,0,144486,23131,15
+NYC 311,4,ordpath,insert,middle,0,0,694435,91916,15
+NYC 311,4,ordpath,delete,middle,0,0,135579,23314,15
+NYC 311,4,ordpath,insert,middle,0,0,791815,238546,15
+NYC 311,4,ordpath,delete,middle,0,0,135866,25414,15
+NYC 311,4,ordpath,insert,tail,0,0,246393,96535,15
+NYC 311,4,ordpath,delete,tail,0,0,157519,47315,15
+NYC 311,4,ordpath,insert,tail,0,0,287403,97830,15
+NYC 311,4,ordpath,delete,tail,0,0,137207,25141,15
+NYC 311,4,ordpath,exact,record,1,0,5316,0,0
+NYC 311,4,ordpath,descendants,record,22,0,17354,0,0
+NYC 311,4,ordpath,exact,edited,1,0,5763,0,0
+NYC 311,4,ordpath,descendants,edited,832,0,269797,0,0
+NYC 311,4,ordpath,exact,edited_child,1,0,9172,0,0
+NYC 311,4,ordpath,descendants,edited_child,25,0,16237,0,0
+NYC 311,4,ordpath,exact,dataset,1,0,4618,0,0
+NYC 311,4,ordpath,descendants,dataset,6499,0,1892777,0,0
+NYC 311,5,dde,insert,head,0,0,371362,96019,15
+NYC 311,5,dde,delete,head,0,0,134863,22588,15
+NYC 311,5,dde,insert,head,0,0,321104,102214,15
+NYC 311,5,dde,delete,head,0,0,136231,23692,15
+NYC 311,5,dde,insert,middle,0,0,331651,100680,18
+NYC 311,5,dde,delete,middle,0,0,212197,24068,18
+NYC 311,5,dde,insert,middle,0,0,365067,97546,18
+NYC 311,5,dde,delete,middle,0,0,456909,81696,18
+NYC 311,5,dde,insert,tail,0,0,396371,100990,18
+NYC 311,5,dde,delete,tail,0,0,240803,86909,18
+NYC 311,5,dde,insert,tail,0,0,2242279,118594,18
+NYC 311,5,dde,delete,tail,0,0,240347,29737,18
+NYC 311,5,dde,exact,record,1,0,5072,0,0
+NYC 311,5,dde,descendants,record,22,0,9891,0,0
+NYC 311,5,dde,exact,edited,1,0,4451,0,0
+NYC 311,5,dde,descendants,edited,832,0,219637,0,0
+NYC 311,5,dde,exact,edited_child,1,0,4897,0,0
+NYC 311,5,dde,descendants,edited_child,25,0,10179,0,0
+NYC 311,5,dde,exact,dataset,1,0,4965,0,0
+NYC 311,5,dde,descendants,dataset,6499,0,2069058,0,0
+NYC 311,5,ordpath,insert,head,0,0,264566,96671,15
+NYC 311,5,ordpath,delete,head,0,0,164868,23165,15
+NYC 311,5,ordpath,insert,head,0,0,226403,96054,15
+NYC 311,5,ordpath,delete,head,0,0,174916,22928,15
+NYC 311,5,ordpath,insert,middle,0,0,231966,91240,15
+NYC 311,5,ordpath,delete,middle,0,0,124591,22207,15
+NYC 311,5,ordpath,insert,middle,0,0,473964,173988,15
+NYC 311,5,ordpath,delete,middle,0,0,130081,22781,15
+NYC 311,5,ordpath,insert,tail,0,0,231261,90981,15
+NYC 311,5,ordpath,delete,tail,0,0,180656,73141,15
+NYC 311,5,ordpath,insert,tail,0,0,275285,124745,15
+NYC 311,5,ordpath,delete,tail,0,0,165053,23308,15
+NYC 311,5,ordpath,exact,record,1,0,8568,0,0
+NYC 311,5,ordpath,descendants,record,22,0,12631,0,0
+NYC 311,5,ordpath,exact,edited,1,0,4284,0,0
+NYC 311,5,ordpath,descendants,edited,832,0,208642,0,0
+NYC 311,5,ordpath,exact,edited_child,1,0,4607,0,0
+NYC 311,5,ordpath,descendants,edited_child,25,0,17121,0,0
+NYC 311,5,ordpath,exact,dataset,1,0,4562,0,0
+NYC 311,5,ordpath,descendants,dataset,6499,0,1849444,0,0
+NYC 311,5,dewey,insert,head,0,832,2660723,395775,15
+NYC 311,5,dewey,delete,head,0,806,2597585,355160,15
+NYC 311,5,dewey,insert,head,0,832,2093697,328272,15
+NYC 311,5,dewey,delete,head,0,806,2470417,244220,15
+NYC 311,5,dewey,insert,middle,0,416,1212246,181055,15
+NYC 311,5,dewey,delete,middle,0,390,1160204,145498,15
+NYC 311,5,dewey,insert,middle,0,416,1259741,211174,15
+NYC 311,5,dewey,delete,middle,0,390,1199022,291775,15
+NYC 311,5,dewey,insert,tail,0,0,242975,97035,15
+NYC 311,5,dewey,delete,tail,0,26,208639,50563,15
+NYC 311,5,dewey,insert,tail,0,0,326543,194649,15
+NYC 311,5,dewey,delete,tail,0,26,195220,35174,15
+NYC 311,5,dewey,exact,record,1,0,5478,0,0
+NYC 311,5,dewey,descendants,record,22,0,13685,0,0
+NYC 311,5,dewey,exact,edited,1,0,4785,0,0
+NYC 311,5,dewey,descendants,edited,832,0,226793,0,0
+NYC 311,5,dewey,exact,edited_child,1,0,4498,0,0
+NYC 311,5,dewey,descendants,edited_child,25,0,12350,0,0
+NYC 311,5,dewey,exact,dataset,1,0,7713,0,0
+NYC 311,5,dewey,descendants,dataset,6499,0,2388088,0,0
+NYC 311,6,dde,insert,head,0,0,366126,88819,15
+NYC 311,6,dde,delete,head,0,0,160766,23771,15
+NYC 311,6,dde,insert,head,0,0,398815,95052,15
+NYC 311,6,dde,delete,head,0,0,215630,25063,15
+NYC 311,6,dde,insert,middle,0,0,351742,109590,18
+NYC 311,6,dde,delete,middle,0,0,302964,88370,18
+NYC 311,6,dde,insert,middle,0,0,370684,125387,18
+NYC 311,6,dde,delete,middle,0,0,153173,26939,18
+NYC 311,6,dde,insert,tail,0,0,334839,123770,18
+NYC 311,6,dde,delete,tail,0,0,207822,41110,18
+NYC 311,6,dde,insert,tail,0,0,342921,113094,18
+NYC 311,6,dde,delete,tail,0,0,159359,26174,18
+NYC 311,6,dde,exact,record,1,0,8113,0,0
+NYC 311,6,dde,descendants,record,22,0,12485,0,0
+NYC 311,6,dde,exact,edited,1,0,7781,0,0
+NYC 311,6,dde,descendants,edited,832,0,286556,0,0
+NYC 311,6,dde,exact,edited_child,1,0,6293,0,0
+NYC 311,6,dde,descendants,edited_child,25,0,9796,0,0
+NYC 311,6,dde,exact,dataset,1,0,6204,0,0
+NYC 311,6,dde,descendants,dataset,6499,0,1864688,0,0
+NYC 311,6,dewey,insert,head,0,832,2772535,305932,15
+NYC 311,6,dewey,delete,head,0,806,2293159,238763,15
+NYC 311,6,dewey,insert,head,0,832,2927060,322638,15
+NYC 311,6,dewey,delete,head,0,806,2546857,295368,15
+NYC 311,6,dewey,insert,middle,0,416,1538058,219629,15
+NYC 311,6,dewey,delete,middle,0,390,985781,119000,15
+NYC 311,6,dewey,insert,middle,0,416,1411478,182530,15
+NYC 311,6,dewey,delete,middle,0,390,1869795,182463,15
+NYC 311,6,dewey,insert,tail,0,0,416575,219200,15
+NYC 311,6,dewey,delete,tail,0,26,194752,35454,15
+NYC 311,6,dewey,insert,tail,0,0,287537,163880,15
+NYC 311,6,dewey,delete,tail,0,26,221007,33777,15
+NYC 311,6,dewey,exact,record,1,0,4814,0,0
+NYC 311,6,dewey,descendants,record,22,0,10380,0,0
+NYC 311,6,dewey,exact,edited,1,0,13267,0,0
+NYC 311,6,dewey,descendants,edited,832,0,219066,0,0
+NYC 311,6,dewey,exact,edited_child,1,0,4943,0,0
+NYC 311,6,dewey,descendants,edited_child,25,0,11669,0,0
+NYC 311,6,dewey,exact,dataset,1,0,4502,0,0
+NYC 311,6,dewey,descendants,dataset,6499,0,1829979,0,0
+NYC 311,6,ordpath,insert,head,0,0,220489,95559,15
+NYC 311,6,ordpath,delete,head,0,0,140120,24169,15
+NYC 311,6,ordpath,insert,head,0,0,226118,95050,15
+NYC 311,6,ordpath,delete,head,0,0,187280,56190,15
+NYC 311,6,ordpath,insert,middle,0,0,269627,95632,15
+NYC 311,6,ordpath,delete,middle,0,0,138390,24259,15
+NYC 311,6,ordpath,insert,middle,0,0,284043,95141,15
+NYC 311,6,ordpath,delete,middle,0,0,256132,23246,15
+NYC 311,6,ordpath,insert,tail,0,0,348651,118243,15
+NYC 311,6,ordpath,delete,tail,0,0,129040,23416,15
+NYC 311,6,ordpath,insert,tail,0,0,229287,98769,15
+NYC 311,6,ordpath,delete,tail,0,0,133703,24739,15
+NYC 311,6,ordpath,exact,record,1,0,5401,0,0
+NYC 311,6,ordpath,descendants,record,22,0,9875,0,0
+NYC 311,6,ordpath,exact,edited,1,0,4869,0,0
+NYC 311,6,ordpath,descendants,edited,832,0,216244,0,0
+NYC 311,6,ordpath,exact,edited_child,1,0,4579,0,0
+NYC 311,6,ordpath,descendants,edited_child,25,0,13546,0,0
+NYC 311,6,ordpath,exact,dataset,1,0,4565,0,0
+NYC 311,6,ordpath,descendants,dataset,6499,0,1926905,0,0

@@ -1,0 +1,85 @@
+corpus,scheme,operation,target,n,returned,rewrites_median,total_us_median,key_bytes_max
+Flask,dde,delete,head,14,0.0,0.0,1763.8675,15
+Flask,dde,delete,middle,14,0.0,0.0,1699.581,18
+Flask,dde,delete,tail,14,0.0,0.0,1720.779,18
+Flask,dde,descendants,dataset,7,3046,0,740.607,0
+Flask,dde,descendants,edited,7,832,0,198.656,0
+Flask,dde,descendants,edited_child,7,25,0,10.825,0
+Flask,dde,descendants,record,7,99,0,27.759,0
+Flask,dde,exact,dataset,7,1,0,4.211,0
+Flask,dde,exact,edited,7,1,0,4.216,0
+Flask,dde,exact,edited_child,7,1,0,4.128,0
+Flask,dde,exact,record,7,1,0,4.162,0
+Flask,dde,insert,head,14,0.0,0.0,1527.006,15
+Flask,dde,insert,middle,14,0.0,0.0,1942.2185,18
+Flask,dde,insert,tail,14,0.0,0.0,1906.878,18
+Flask,dewey,delete,head,14,0.0,806.0,3286.3135,15
+Flask,dewey,delete,middle,14,0.0,390.0,2477.441,15
+Flask,dewey,delete,tail,14,0.0,26.0,1274.018,15
+Flask,dewey,descendants,dataset,7,3046,0,709.89,0
+Flask,dewey,descendants,edited,7,832,0,199.023,0
+Flask,dewey,descendants,edited_child,7,25,0,10.458,0
+Flask,dewey,descendants,record,7,99,0,27.195,0
+Flask,dewey,exact,dataset,7,1,0,4.273,0
+Flask,dewey,exact,edited,7,1,0,4.146,0
+Flask,dewey,exact,edited_child,7,1,0,4.129,0
+Flask,dewey,exact,record,7,1,0,4.631,0
+Flask,dewey,insert,head,14,0.0,832.0,3645.0385,15
+Flask,dewey,insert,middle,14,0.0,416.0,2545.933,15
+Flask,dewey,insert,tail,14,0.0,0.0,1394.159,15
+Flask,ordpath,delete,head,14,0.0,0.0,1265.9975,15
+Flask,ordpath,delete,middle,14,0.0,0.0,1257.215,15
+Flask,ordpath,delete,tail,14,0.0,0.0,1393.665,15
+Flask,ordpath,descendants,dataset,7,3046,0,720.725,0
+Flask,ordpath,descendants,edited,7,832,0,197.492,0
+Flask,ordpath,descendants,edited_child,7,25,0,10.437,0
+Flask,ordpath,descendants,record,7,99,0,27.109,0
+Flask,ordpath,exact,dataset,7,1,0,4.279,0
+Flask,ordpath,exact,edited,7,1,0,4.282,0
+Flask,ordpath,exact,edited_child,7,1,0,4.064,0
+Flask,ordpath,exact,record,7,1,0,4.187,0
+Flask,ordpath,insert,head,14,0.0,0.0,1392.0675,15
+Flask,ordpath,insert,middle,14,0.0,0.0,1771.2615,15
+Flask,ordpath,insert,tail,14,0.0,0.0,1609.4815,15
+NYC 311,dde,delete,head,14,0.0,0.0,1564.1375,15
+NYC 311,dde,delete,middle,14,0.0,0.0,1534.1745,18
+NYC 311,dde,delete,tail,14,0.0,0.0,1568.2905,18
+NYC 311,dde,descendants,dataset,7,6499,0,1802.673,0
+NYC 311,dde,descendants,edited,7,832,0,196.074,0
+NYC 311,dde,descendants,edited_child,7,25,0,10.488,0
+NYC 311,dde,descendants,record,7,22,0,9.492,0
+NYC 311,dde,exact,dataset,7,1,0,4.275,0
+NYC 311,dde,exact,edited,7,1,0,4.541,0
+NYC 311,dde,exact,edited_child,7,1,0,4.222,0
+NYC 311,dde,exact,record,7,1,0,4.507,0
+NYC 311,dde,insert,head,14,0.0,0.0,1619.7235,15
+NYC 311,dde,insert,middle,14,0.0,0.0,1984.376,18
+NYC 311,dde,insert,tail,14,0.0,0.0,1816.802,18
+NYC 311,dewey,delete,head,14,0.0,806.0,3486.704,15
+NYC 311,dewey,delete,middle,14,0.0,390.0,2497.3225,15
+NYC 311,dewey,delete,tail,14,0.0,26.0,1475.3315,15
+NYC 311,dewey,descendants,dataset,7,6499,0,1717.394,0
+NYC 311,dewey,descendants,edited,7,832,0,198.808,0
+NYC 311,dewey,descendants,edited_child,7,25,0,10.137,0
+NYC 311,dewey,descendants,record,7,22,0,9.81,0
+NYC 311,dewey,exact,dataset,7,1,0,4.201,0
+NYC 311,dewey,exact,edited,7,1,0,4.308,0
+NYC 311,dewey,exact,edited_child,7,1,0,4.194,0
+NYC 311,dewey,exact,record,7,1,0,4.524,0
+NYC 311,dewey,insert,head,14,0.0,832.0,3568.076,15
+NYC 311,dewey,insert,middle,14,0.0,416.0,2709.309,15
+NYC 311,dewey,insert,tail,14,0.0,0.0,1419.2565,15
+NYC 311,ordpath,delete,head,14,0.0,0.0,1399.3505,15
+NYC 311,ordpath,delete,middle,14,0.0,0.0,1312.345,15
+NYC 311,ordpath,delete,tail,14,0.0,0.0,1442.9645,15
+NYC 311,ordpath,descendants,dataset,7,6499,0,1847.515,0
+NYC 311,ordpath,descendants,edited,7,832,0,198.757,0
+NYC 311,ordpath,descendants,edited_child,7,25,0,10.425,0
+NYC 311,ordpath,descendants,record,7,22,0,9.733,0
+NYC 311,ordpath,exact,dataset,7,1,0,4.272,0
+NYC 311,ordpath,exact,edited,7,1,0,4.556,0
+NYC 311,ordpath,exact,edited_child,7,1,0,4.096,0
+NYC 311,ordpath,exact,record,7,1,0,4.205,0
+NYC 311,ordpath,insert,head,14,0.0,0.0,1436.648,15
+NYC 311,ordpath,insert,middle,14,0.0,0.0,1653.131,15
+NYC 311,ordpath,insert,tail,14,0.0,0.0,1590.4745,15

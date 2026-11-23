@@ -1,0 +1,6 @@
+Windows-11-10.0.26300-SP0
+CPU Intel64 Family 6 Model 170 Stepping 4, GenuineIntel (14 logical)
+Memory 32188 MiB
+Temp filesystem C:\Users\vsans\AppData\Local\Temp
+Python 3.14.0
+SQLite 3.50.4

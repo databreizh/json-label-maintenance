@@ -1,0 +1,4 @@
+uniform dde 49152 114688
+uniform ordpath 81920 118784
+zigzag dde 7225344 4116480
+zigzag ordpath 11976704 11661312
